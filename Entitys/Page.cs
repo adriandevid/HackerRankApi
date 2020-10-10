@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace api
+namespace api.Entitys
 {
     class Page
     {

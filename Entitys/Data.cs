@@ -1,4 +1,4 @@
-namespace api
+namespace api.Entitys
 {
     class Data {
         public string competition { get; set; }

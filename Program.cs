@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Net;
-using System.Threading.Tasks;
+using api.Entitys;
 using Newtonsoft.Json;
 
 
